@@ -3,7 +3,7 @@
 
 (_Learning SQL_, Alan Beaulieu)
 
-## Introduction to Databases 
+## Introduction to Databases ~ Chapter 1
 A __database___ is nothing more than a set of related information. A _database system_ is a computerized data storage and retrieval mechanism. A database system is able retrieve data more quickly, index data in multiple ways, and deliver up-to-the minute information to its user community. 
 
 ### Database Terminology 
